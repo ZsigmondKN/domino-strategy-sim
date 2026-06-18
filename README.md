@@ -24,5 +24,5 @@ Ensure Haskell (GHC) is installed.
    The parameters correspond to:
    - `games` = number of games to play
    - `target` = target score to reach
-   - `player1`, `player2` = your DomsPlayer strategy functions
+   - `player1`, `player2` = your DomsPlayer strategy functions ( `simplePlayer`, `smartPlayer`)
    - `seed` = random number seed for reproducibility
